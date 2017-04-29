@@ -1,0 +1,25 @@
+{
+  "name": "hapi_trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiyaThete/hapiTrial.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "Riya Thete",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiyaThete/hapiTrial/issues"
+  },
+  "homepage": "https://github.com/RiyaThete/hapiTrial#readme",
+  "dependencies": {
+    "hapi": "^16.1.1"
+  }
+}
